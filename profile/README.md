@@ -1,1 +1,1 @@
-> A minimal, type-safe middleware kernel for TypeScript. Compose your framework, don't inherit one.
+**Rhythm** is an opinionated, batteries-included backend framework for the Bun runtime: modular architecture, lifecycle-managed providers, and onion middleware, fully type-checked with no decorators or DI container. Config, validation, security, observability, OpenAPI, WebSockets, background jobs, and testing ship as first-class packages.
